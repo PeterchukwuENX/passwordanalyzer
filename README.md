@@ -20,4 +20,4 @@ The program scores passwords and outputs a **Weak / Medium / Excellent** verdict
  How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/PasswordAnalyzer.git
+git clone https://github.com/PeterchukwuENX/PasswordAnalyzer.git
